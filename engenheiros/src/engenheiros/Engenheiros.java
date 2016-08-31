@@ -16,6 +16,10 @@ public class Engenheiros {
      */
     public static void main(String[] args) {
         System.out.println("Engenheiros do Hawaii");
+        System.out.println("Engenheiros do Hawaii");
+        System.out.println("Engenheiros do Hawaii");
+        System.out.println("Engenheiros do Hawaii");
+        
         // TODO code application logic here
     }
     
